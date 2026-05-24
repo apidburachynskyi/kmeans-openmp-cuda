@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # K-means large benchmark
 
 Files:
@@ -27,3 +28,6 @@ mkdir ..\results
 .\kmeans_cuda.exe 16 30 > ..\results\cuda_results.csv
 cd ..
 ```
+=======
+# kmeans-openmp-cuda
+>>>>>>> e5f684748dcfeeff5c724cd923bedc05bef05046
